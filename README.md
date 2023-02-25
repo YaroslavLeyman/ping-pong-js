@@ -1,12 +1,9 @@
 ### Game ping-pong Vanilla JavaScript
 
+* [Ссылка на проект](http://game.itleiman.ru)
+
 Управление:
 - правая ракетка: стрелки вверх-вниз.
 
 **Используемые технологии**
 * Vanilla JavaScript
-
-
-**GitHub Pages**
-
-* [Ссылка на проект](https://yaroslavleyman.github.io/ping-pong-js/)
