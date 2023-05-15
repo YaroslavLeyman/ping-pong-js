@@ -2,8 +2,7 @@ html,
 body {
   height: 100%;
   margin: 0;
-  background: rgba(47,47,50,1);
-  
+  background: rgba(47, 47, 50, 1);
 }
 
 header {
@@ -18,7 +17,7 @@ h1 {
 }
 
 canvas {
-  background-color: #ba21ff;;
+  background-color: #ba21ff;
   border-radius: 5px;
 }
 
@@ -27,4 +26,3 @@ canvas {
   align-items: center;
   justify-content: center;
 }
-
